@@ -1,0 +1,21 @@
+Circuit: * F:\Shaiane Baroi\BRACU\Summer 2021\CSE251\LAB\Lab03\Draft2.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Sep 16 04:24:42 2021
+Total elapsed time: 0.133 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2470
+traniter = 2466
+tranpoints = 1199
+accept = 1172
+rejected = 27
+matrix size = 7
+fillins = 0
+solver = Normal
+Matrix Compiler1: 178 bytes object code size  0.1/0.1/[0.0]
+Matrix Compiler2: 427 bytes object code size  0.1/0.2/[0.1]
+
